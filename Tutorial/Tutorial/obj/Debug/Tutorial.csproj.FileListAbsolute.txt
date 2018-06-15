@@ -1,0 +1,6 @@
+C:\Users\shiva\documents\visual studio 2017\Projects\Tutorial\Tutorial\bin\Debug\Tutorial.exe.config
+C:\Users\shiva\documents\visual studio 2017\Projects\Tutorial\Tutorial\bin\Debug\Tutorial.exe
+C:\Users\shiva\documents\visual studio 2017\Projects\Tutorial\Tutorial\bin\Debug\Tutorial.pdb
+C:\Users\shiva\documents\visual studio 2017\Projects\Tutorial\Tutorial\obj\Debug\Tutorial.csprojResolveAssemblyReference.cache
+C:\Users\shiva\documents\visual studio 2017\Projects\Tutorial\Tutorial\obj\Debug\Tutorial.exe
+C:\Users\shiva\documents\visual studio 2017\Projects\Tutorial\Tutorial\obj\Debug\Tutorial.pdb
